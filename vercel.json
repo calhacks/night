@@ -3,6 +3,7 @@
     { "source": "/", "destination": "https://partiful.com/e/n41EZr0FAjnVnsoOeD8a?", "permanent": false },
     { "source": "/w1", "destination": "https://workshops.hackclub.com/synth/", "permanent": false },
     { "source": "/w2", "destination": "https://workshops.hackclub.com/particle_physics/", "permanent": false },
-    { "source": "/w3", "destination": "https://workshops.hackclub.com/sound_galaxy/", "permanent": false }
+    { "source": "/w3", "destination": "https://workshops.hackclub.com/sound_galaxy/", "permanent": false },
+    { "source": "/slides", "destination": "https://docs.google.com/presentation/d/1dLHSyO-pFgGUbT9b9GgJsKFTg-bJFw3ZWoQGBp21H4c/edit?usp=sharing", "permanent": false }
   ]
 }
